@@ -73,3 +73,5 @@ pytest -q
 ## Security notes
 
 The demo deliberately stores no card numbers, passwords, tokens, or payment credentials. Production deployment should add authenticated customer identity, encrypted sensitive contact fields, rate limits, audit logging, and PCI-compliant payment-provider integrations. Shipping and payment APIs should be wrapped with timeouts and retries before being enabled.
+
+Project Demo Link: https://agentic-ai-project-1kjo.onrender.com
